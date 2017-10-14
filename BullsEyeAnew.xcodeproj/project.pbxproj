@@ -58,12 +58,12 @@
 		A8A4A6221F8A46DF00211FA1 /* BullsEyeAnew */ = {
 			isa = PBXGroup;
 			children = (
-				A834BB231F8FC7C800CA5A82 /* Main.storyboard */,
 				A834BB211F8FC53400CA5A82 /* BullsEye.html */,
 				A8A4A6231F8A46DF00211FA1 /* AppDelegate.swift */,
 				A8A4A6251F8A46DF00211FA1 /* ViewController.swift */,
 				A8A4A6351F8FB69C00211FA1 /* AboutViewController.swift */,
 				A8A4A62A1F8A46DF00211FA1 /* Assets.xcassets */,
+				A834BB231F8FC7C800CA5A82 /* Main.storyboard */,
 				A8A4A62C1F8A46DF00211FA1 /* LaunchScreen.storyboard */,
 				A8A4A62F1F8A46DF00211FA1 /* Info.plist */,
 			);
